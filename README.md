@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=B.Tech+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm passionate about coding, web development, and building projects that solve real-world problems. I love learning new technologies and experimenting with innovative ideas.
 
-- 🔭 I'm currently working on **Resume Generator** and other exciting projects
-- 🌱 I'm currently learning **DSA with Java, JavaScript, AWS, and React**
-- 💬 Ask me about **Java, React, Spring Boot, and Web Development**
-- 📫 How to reach me: **saharshthoutam@gmail.com**
-- ⚡ Fun fact: I love solving algorithmic challenges!
+-  I'm currently working on **Resume Generator** and other exciting projects
+-  I'm currently learning **DSA with Java, JavaScript, AWS, and React**
+-  Ask me about **Java, React, Spring Boot, and Web Development**
+-  How to reach me: **saharshthoutam@gmail.com**
+-  Fun fact: I love solving algorithmic challenges!
 
 ## 🛠️ Languages and Tools
 
